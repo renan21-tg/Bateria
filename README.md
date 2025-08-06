@@ -9,7 +9,7 @@ Este projeto é um simulador de bateria virtual simples e interativo, construíd
 
 ## Visualizacão
 
-<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/a3da07d8-3bc0-4c12-ab32-4d9ca4d5bb67" />
+https://github.com/user-attachments/assets/fb2e6964-fc20-4bad-adbc-91cd36d69c32
 
 ## Tecnologias Utilizadas
 
